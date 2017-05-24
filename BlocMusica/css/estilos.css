@@ -52,6 +52,9 @@ body{
 .borde_imagen{
 	border: 2px  solid #F5F61B;
 };
-.borde2_imagen{
-	border: 2px solid red;
+
+#flex{
+	display: flex;
+	flex-direction: column;
+	align-content: space-between;
 }
