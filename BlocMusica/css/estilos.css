@@ -1,0 +1,45 @@
+
+body{
+	background-color: black !important;
+}
+
+.container{
+	background-color: rgb(185,29,29);
+
+}
+
+.fondo_sec{
+	background-color: rgb(91,168,185);
+
+}
+
+.icon{
+	font-size: 30px;
+	color:black;
+}
+
+.icon:hover{
+	text-decoration: none;
+	color: white;
+}
+
+.titulo{
+	font-family: Chiller;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.menu a{
+	color: white;
+	font-size: 30px;
+}
+
+.menu a:hover{
+
+	color:black;
+	text-decoration: none;
+}
+
+.color_text{
+	color: white;
+}
