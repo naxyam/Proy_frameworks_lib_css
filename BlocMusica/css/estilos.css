@@ -41,5 +41,17 @@ body{
 }
 
 .color_text{
-	color: white;
+	color: black;
+	font-size: 18px;
+}
+
+.espacioabajo{
+	padding-bottom: 5px;
+}
+
+.borde_imagen{
+	border: 2px  solid #F5F61B;
+};
+.borde2_imagen{
+	border: 2px solid red;
 }
