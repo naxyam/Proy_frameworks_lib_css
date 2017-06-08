@@ -1,0 +1,28 @@
+#titulo img{
+	max-height: 50px;
+}
+
+#titulo h1{
+	font-size: 50px;
+}
+
+#busqueda input{
+	background: url("iconos.gif") no-repeat scroll 0 0 transparent;
+}
+
+#icono{
+	float:right;
+	margin-right: 6px;
+	margin-top: -20px;
+	position: relative;
+	y-index:-1;
+	color: red;
+	top:0px;
+}
+
+#galeria-fav1 img{
+	max-width: 100px;
+}
+#galeria-fav2 img{
+	max-width: 100px;
+}
