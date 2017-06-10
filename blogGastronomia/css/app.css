@@ -1,28 +1,63 @@
-#titulo img{
-	max-height: 50px;
+body{
+  background-image: url("../img/fondo.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+	
+.logo{
+	width: 50%;
+	min-height: 200px;
+	 
+}
+
+.contenido-logo{
+
+	max-height: 250px;
+
+}
+
+.column{
+	margin-right: -10px;
+}
+
+.row{
+	margin-bottom: -10px;
+
+}
+
+.cont-fotos{
+	margin-bottom: -10px;
+
+}
+
+
+#contenido img{
+	width:100%;
+	max-height: 500px;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.cont-fotos{
+	min-height: 350px;
 }
 
 #titulo h1{
-	font-size: 50px;
+	font-size: 40px;
+	font-family: 'Mogra', cursive;
 }
 
-#busqueda input{
-	background: url("iconos.gif") no-repeat scroll 0 0 transparent;
-}
-
-#icono{
-	float:right;
-	margin-right: 6px;
-	margin-top: -20px;
-	position: relative;
-	y-index:-1;
-	color: red;
-	top:0px;
-}
 
 #galeria-fav1 img{
 	max-width: 100px;
 }
 #galeria-fav2 img{
 	max-width: 100px;
+}
+#contenido h5{
+	color: red;
 }
